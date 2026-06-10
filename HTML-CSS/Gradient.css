@@ -1,0 +1,7 @@
+body{
+    display:flex;
+    flex-direction:row-reverse;
+    flex-wrap:wrap;
+    gap: 2cm;
+    flex-grow:1;
+}

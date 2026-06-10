@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color:white;
+}
+
+ul{
+    display: flex;
+    gap: 1cm;
+    list-style: none;
+}
