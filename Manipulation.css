@@ -1,0 +1,14 @@
+img{
+    width:192px;
+}
+body{
+    background-color: yellow;
+}
+#content{
+    display: flex;
+    gap: 1cm;
+}
+h1{
+    text-align: center;
+    color:brown;
+}
